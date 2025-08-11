@@ -10,3 +10,12 @@ The goal of this project is create a Convolutional Neural Network in python to c
 
 ## References
 This Project is assigned by Artificial Neural Network and Deep Learning course at Politecnico di Milano
+
+## Configuration
+To train:
+Before running the code upload a dataset and change the name from training_set.npz to <your_dataset>
+Then change the names of the labels and the images given for training inside arrays X and y
+Finally run the code
+
+To predict:
+no need to download or upload models or weights, code itself after training execute predictions and evaluations
