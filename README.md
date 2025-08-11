@@ -15,8 +15,8 @@ This Project is assigned by Artificial Neural Network and Deep Learning course a
 To train:
 
 Before running the code upload a dataset and change the name from training_set.npz to <your_dataset>.<br>
-Then change the names of the labels and the images given for training inside arrays X and y.<\br>
-Finally run the code.<\br>
+Then change the names of the labels and the images given for training inside arrays X and y.<br>
+Finally run the code.<br>
 
-To predict:<\br>
+To predict:<br>
 no need to download or upload models or weights, code itself after training execute predictions and evaluations.
